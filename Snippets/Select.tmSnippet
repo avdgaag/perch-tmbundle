@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;perch:content label="${1:Select}" type="select" id="${2:${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}}" options="${3:comma,separated,list}"${4: allowempty="${5:true}"} /&gt;$0</string>
+	<key>name</key>
+	<string>Select</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>perchc</string>
+	<key>uuid</key>
+	<string>4299180C-899D-429D-8ED4-F24FDADE54B4</string>
+</dict>
+</plist>

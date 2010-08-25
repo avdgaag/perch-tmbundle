@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;perch:content label="${1:Image}" type="image" id="${2:${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}}"${3: width="${4:150}"}${5: height="${6:150}"} /&gt;$0</string>
+	<key>name</key>
+	<string>Image</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>perchc</string>
+	<key>uuid</key>
+	<string>7B461E76-C44F-4DA8-AD6F-EE58E1228E83</string>
+</dict>
+</plist>

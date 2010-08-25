@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;perch:before&gt;
+	$0
+&lt;/perch:before&gt;</string>
+	<key>name</key>
+	<string>Before</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>perchb</string>
+	<key>uuid</key>
+	<string>52A5870A-57F1-4D4B-9945-2BAD685F2F61</string>
+</dict>
+</plist>

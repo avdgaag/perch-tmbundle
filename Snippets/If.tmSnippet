@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;perch:if exists="${1:id}"&gt;
+	$0
+&lt;/perch:if&gt;</string>
+	<key>name</key>
+	<string>If</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>perchif</string>
+	<key>uuid</key>
+	<string>8EFB256F-C7C3-4058-B78E-86CAD6C84FAD</string>
+</dict>
+</plist>
